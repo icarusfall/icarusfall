@@ -21,7 +21,7 @@ The beginnings of a machine for sorting and categorising a Lego collection.
 
 **[Poetry Memoriser](https://github.com/icarusfall/poetry-memoriser)**
 A very simple app to help memorise poetry.
-[try it](poetry-memoriser-production.up.railway.app)
+[try it](https://poetry-memoriser-production.up.railway.app)
 
 **[Risk Training](https://github.com/icarusfall/risk-training)**
 A training course in the statistics of estimating portfolio risk.
